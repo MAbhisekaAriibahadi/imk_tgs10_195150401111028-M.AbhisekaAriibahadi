@@ -1,0 +1,33 @@
+hr{
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 300px;
+    border-color: #71c9ce;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.index{
+    background-color: #cbf1f5;
+}
+
+.hubungiSaya{
+    background-color: #e3fdfd;
+}
+
+#head{
+    text-indent: 30px;
+    color: #162447;
+    font-family: Impact;
+}
+
+#link{
+    font-family: cursive;
+    text-indent: 40px;
+}
+
+p{
+    font-family: 'Times New Roman';
+}
