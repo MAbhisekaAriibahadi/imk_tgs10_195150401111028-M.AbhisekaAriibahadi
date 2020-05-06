@@ -5,8 +5,14 @@ hr{
     border-color: #71c9ce;
 }
 
+body{
+    margin : 0px;
+}
+
 img{
     border-radius: 50%;
+    border-style: solid;
+    border-color: white;
 }
 
 .index{
@@ -17,7 +23,12 @@ img{
     background-color: #e3fdfd;
 }
 
+.profil{
+    background-color: #fc7e2f;
+}
+
 #head{
+    margin-top: 20px;
     text-indent: 30px;
     color: #162447;
     font-family: Impact;
